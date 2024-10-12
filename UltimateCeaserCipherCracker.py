@@ -1,4 +1,4 @@
-def caesar(text):
+def ceasar(text):
     for i in range(26):
         result = ""
         for char in text:
